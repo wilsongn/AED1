@@ -1,3 +1,8 @@
+/*Seu trabalho nesse problema é ler um número que é uma coluna de uma matriz em que uma operação será executada, um caractere maiúsculo,
+indicando a operação a ser executada e todos os elementos de uma matriz bidimensional M[ 12 ] [ 12 ]. 
+Em seguida, você deve calcular e imprimir a soma ou média de todos os elementos dentro da área verde de acordo com o caso. 
+A figura a seguir ilustra o caso quando é inserido o número 5 na coluna da matriz, mostrando todos os elementos isso deve ser considerado na operação.*/
+
 #include <stdio.h>
 
 int main(void){
