@@ -1,3 +1,7 @@
+/*Escreva um algoritmo para ler um número não declarado de dados, cada um contendo a idade de um indivíduo.
+Os dados finais, que não serão inseridos nos cálculos, contêm o valor de uma idade negativa. 
+Calcule e imprima a idade média desse grupo de indivíduos.*/
+
 #include <stdio.h>
  
 int main() {
