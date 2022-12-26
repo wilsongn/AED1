@@ -8,6 +8,5 @@ Todos os programas são feitos em C, com inuito de resolver problemas de listas 
 Para compilar utilize
 
 ```
-gcc
 ```
 
